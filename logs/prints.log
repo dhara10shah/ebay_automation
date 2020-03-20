@@ -1,0 +1,311 @@
+23:20:23.531 [main] INFO  resources.Base - https://www.ebay.com/p/1268820651?iid=143540576409&rt=nc
+23:24:29.361 [main] INFO  resources.Base - initialized driver
+23:24:32.631 [main] INFO  resources.Base - Link visited0 on page1
+23:25:02.736 [main] INFO  resources.Base - https://www.ebay.com/c/174102943?iid=153848293948
+23:25:07.648 [main] INFO  resources.Base - Link visited1 on page1
+23:25:37.714 [main] INFO  resources.Base - https://www.ebay.com/itm/Rolex-Oyster-Perpetual-Date-Stainless-Steel-Automatic/303518620439?hash=item46ab1e9b17:g:LqsAAOSwj7hec1Rv
+23:25:41.651 [main] INFO  resources.Base - Link visited2 on page1
+23:26:11.765 [main] INFO  resources.Base - https://www.ebay.com/p/25008205123?iid=173854683740&rt=nc
+23:26:15.429 [main] INFO  resources.Base - Link visited3 on page1
+23:26:18.127 [main] INFO  resources.Base - https://www.ebay.com/itm/Mens-Rolex-Stainless-Steel-Oval-watch-band-links/202940419568?hash=item2f40310df0:g:CpYAAOSwMqVedCW~
+23:26:22.365 [main] INFO  resources.Base - Link visited4 on page1
+23:26:24.398 [main] INFO  resources.Base - https://www.ebay.com/itm/Rolex-Oyster-Perpetual-Auto-34mm-Steel-Mens-Oyster-Bracelet-Watch-114200/274311177563?hash=item3fde38655b:g:SSMAAOSwQahecn8r
+23:26:30.701 [main] INFO  resources.Base - Link visited5 on page1
+23:26:31.342 [main] INFO  resources.Base - https://www.ebay.com/itm/ROLEX-18kt-Gold-SS-Ladies-DateJust-Champagne-Diamond-79173-SANT-BLANC/333551747819?hash=item4da93bc2eb:g:fnYAAOSw581diwRw
+23:26:35.592 [main] INFO  resources.Base - Link visited6 on page1
+23:27:42.328 [main] INFO  resources.Base - https://www.ebay.com/p/25033917063?iid=133365909180&rt=nc
+23:27:49.605 [main] INFO  resources.Base - Link visited7 on page1
+23:27:52.071 [main] INFO  resources.Base - https://www.ebay.com/itm/Croton-Men-s-Automatic-Watch-With-Date-Window-Gold-Tone-Rolex-Homage-Style-Bin-Q/153870837988?hash=item23d36aa8e4:g:HocAAOSwJiRec9Sy
+23:27:56.523 [main] INFO  resources.Base - Link visited8 on page1
+23:28:26.701 [main] INFO  resources.Base - https://www.ebay.com/p/2126921652?iid=143559739872&rt=nc
+23:28:30.818 [main] INFO  resources.Base - Link visited9 on page1
+23:29:00.870 [main] INFO  resources.Base - https://www.ebay.com/p/1268820651?iid=143540576409&rt=nc
+23:47:43.616 [main] INFO  resources.Base - initialized driver
+23:47:46.787 [main] INFO  resources.Base - Link visited0 on page1
+23:48:16.971 [main] INFO  resources.Base - https://www.ebay.com/c/174102943?iid=153848293948
+23:48:21.565 [main] INFO  resources.Base - Link visited1 on page1
+23:48:51.629 [main] INFO  resources.Base - https://www.ebay.com/itm/Rolex-Oyster-Perpetual-Date-Stainless-Steel-Automatic/303518620439?hash=item46ab1e9b17:g:LqsAAOSwj7hec1Rv
+23:49:44.890 [main] INFO  resources.Base - initialized driver
+23:49:47.897 [main] INFO  resources.Base - Link visited0 on page1
+23:50:18.012 [main] INFO  resources.Base - https://www.ebay.com/c/174102943?iid=153848293948
+23:50:21.984 [main] INFO  resources.Base - Link visited1 on page1
+23:50:52.092 [main] INFO  resources.Base - https://www.ebay.com/itm/Rolex-Oyster-Perpetual-Date-Stainless-Steel-Automatic/303518620439?hash=item46ab1e9b17:g:LqsAAOSwj7hec1Rv
+10:52:47.436 [main] INFO  resources.Base - initialized driver
+10:52:47.509 [main] INFO  resources.Base - Start time 2020-03-20T17:52:47.475Z
+10:53:00.564 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/174102943?iid=153848293948
+10:53:13.333 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/ROLEX-CELLINI-4233-BEAUTIFUL-WATCH/333552629472?hash=item4da94936e0:g:JF4AAOSw3e5edNMA
+10:53:18.300 [main] INFO  resources.Base - views 67 https://www.ebay.com/itm/Rolex-Stainless-Steel-Oyster-Perpetual-Date-15000-34mm-Silver-Dial/264674029617?hash=item3d9fcd3031:g:mwgAAOSweR1eZnvl
+10:53:31.724 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/25008205123?iid=173854683740&rt=nc
+10:53:36.986 [main] INFO  resources.Base - views 63 https://www.ebay.com/itm/ROLEX-BUBBLEBACK-MILITARY-REF-2940-ORIGINAL-BLACK-DIAL-MENS-DRESS-WATCH/293518559030?hash=item445711c736:g:ihkAAOSwy11eZq90
+10:53:49.924 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1294246506?iid=274312787919&rt=nc
+10:54:16.100 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1408001878?iid=193389968136&rt=nc
+10:54:20.904 [main] INFO  resources.Base - views 9 https://www.ebay.com/itm/Rolex-1603-Datejust-Silver-Stick-1958-Sigma-Dial-Steel-Jubilee-Automatic-Watch/143560381159?hash=item216cdd92e7:g:htUAAOSwHr1eWYO1
+10:54:25.806 [main] INFO  resources.Base - views 17 https://www.ebay.com/itm/Rolex-16622-A-Yachtmaster-Platinum-YM-Stainless-Steel-Swiss-Automatic-Watch/143560348226?hash=item216cdd1242:g:Zh0AAOSw481dXZME
+10:54:30.565 [main] INFO  resources.Base - views 10 https://www.ebay.com/itm/Rolex-68240-U-Datejust-Silver-Jubilee-Arabic-Bracelet-Stainless-Steel-Automatic/164132674927?hash=item263711dd6f:g:2boAAOSw1sZdXZAb
+10:54:31.567 [main] INFO  resources.Base - End Time  2020-03-20T17:54:31.566Z
+11:52:26.673 [main] INFO  resources.Base - initialized driver
+11:52:26.753 [main] INFO  resources.Base - Start time 2020-03-20T18:52:26.711Z
+11:52:39.320 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/174102943?iid=153848293948
+11:52:53.109 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/ROLEX-CELLINI-4233-BEAUTIFUL-WATCH/333552629472?hash=item4da94936e0:g:JF4AAOSw3e5edNMA
+11:52:59.961 [main] INFO  resources.Base - views 72 https://www.ebay.com/itm/Rolex-Stainless-Steel-Oyster-Perpetual-Date-15000-34mm-Silver-Dial/264674029617?hash=item3d9fcd3031:g:mwgAAOSweR1eZnvl
+11:53:15.248 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/25008205123?iid=173854683740&rt=nc
+11:53:21.983 [main] INFO  resources.Base - views 63 https://www.ebay.com/itm/ROLEX-BUBBLEBACK-MILITARY-REF-2940-ORIGINAL-BLACK-DIAL-MENS-DRESS-WATCH/293518559030?hash=item445711c736:g:ihkAAOSwy11eZq90
+11:53:36.039 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1294246506?iid=274312787919&rt=nc
+11:53:50.203 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1408001878?iid=193389968136&rt=nc
+11:53:56.768 [main] INFO  resources.Base - views 8 https://www.ebay.com/itm/Rolex-Datejust-Turnograph-36mm-Red-Hand-Steel-Mens-Watch-116264/293519186659?hash=item44571b5ae3:g:DyQAAOSwt9BedQWi
+11:54:02.338 [main] INFO  resources.Base - views 8 https://www.ebay.com/itm/Rolex-1603-Datejust-Silver-Stick-1958-Sigma-Dial-Steel-Jubilee-Automatic-Watch/143560381159?hash=item216cdd92e7:g:htUAAOSwHr1eWYO1
+11:54:08.242 [main] INFO  resources.Base - views 28 https://www.ebay.com/itm/ROLEX-Explorer-II-16570T-c-2003-Fits-7-25/223952204331?hash=item342497722b:g:noUAAOSw6nNedNk9
+11:54:10.251 [main] INFO  resources.Base - End Time  2020-03-20T18:54:10.250Z
+11:55:37.281 [main] INFO  resources.Base - initialized driver
+11:55:37.341 [main] INFO  resources.Base - Start time 2020-03-20T18:55:37.321Z
+11:55:50.812 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/174102943?iid=153848293948
+11:56:04.536 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/ROLEX-CELLINI-4233-BEAUTIFUL-WATCH/333552629472?hash=item4da94936e0:g:JF4AAOSw3e5edNMA
+11:56:12.282 [main] INFO  resources.Base - views 74 https://www.ebay.com/itm/Rolex-Stainless-Steel-Oyster-Perpetual-Date-15000-34mm-Silver-Dial/264674029617?hash=item3d9fcd3031:g:mwgAAOSweR1eZnvl
+11:56:27.035 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/25008205123?iid=173854683740&rt=nc
+11:56:41.915 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/18032789303?iid=264674022217&rt=nc
+11:56:56.659 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1294246506?iid=274312787919&rt=nc
+11:57:10.749 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1408001878?iid=193389968136&rt=nc
+11:57:17.046 [main] INFO  resources.Base - views 64 https://www.ebay.com/itm/ROLEX-BUBBLEBACK-MILITARY-REF-2940-ORIGINAL-BLACK-DIAL-MENS-DRESS-WATCH/293518559030?hash=item445711c736:g:ihkAAOSwy11eZq90
+11:57:23.381 [main] INFO  resources.Base - views 9 https://www.ebay.com/itm/Rolex-1603-Datejust-Silver-Stick-1958-Sigma-Dial-Steel-Jubilee-Automatic-Watch/143560381159?hash=item216cdd92e7:g:htUAAOSwHr1eWYO1
+11:57:28.994 [main] INFO  resources.Base - views 5 https://www.ebay.com/itm/Rolex-68240-U-Datejust-Silver-Jubilee-Arabic-Bracelet-Stainless-Steel-Automatic/164132674927?hash=item263711dd6f:g:2boAAOSw1sZdXZAb
+11:57:35.307 [main] INFO  resources.Base - views 12 https://www.ebay.com/itm/Rolex-Daytona-dial/402173956622?hash=item5da36f920e:g:OrcAAOSw6QxedMSe
+11:57:49.744 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/8028679194?iid=283821619694&rt=nc
+11:57:55.349 [main] INFO  resources.Base - views 18 https://www.ebay.com/itm/Rolex-Datejust-Turnograph-36mm-Red-Hand-Steel-Mens-Watch-116264/293519186659?hash=item44571b5ae3:g:DyQAAOSwt9BedQWi
+11:58:01.153 [main] INFO  resources.Base - views 13 https://www.ebay.com/itm/Rolex-69173-E-Ivory-Jubilee-Arabic-Datejust-18-Karat-Yellow-Gold-and-Steel-Watch/143560338125?hash=item216cdceacd:g:kp8AAOSwq6ddXYF8
+11:58:07.066 [main] INFO  resources.Base - views 5 https://www.ebay.com/itm/Rolex-179161-D-Datejust-18k-Rose-and-Steel-Black-Roman-Factory-Serviced-Swiss/353014195616?hash=item52314925a0:g:aP8AAOSwLfddXqWX
+11:58:20.481 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/Rolex-GMT-1675-Pepsi-Watch-Rare-Vintage/223952201937?hash=item34249768d1:g:Rq4AAOSwkoleQf8~
+11:58:26.207 [main] INFO  resources.Base - views 29 https://www.ebay.com/itm/ROLEX-Explorer-II-16570T-c-2003-Fits-7-25/223952204331?hash=item342497722b:g:noUAAOSw6nNedNk9
+11:58:31.825 [main] INFO  resources.Base - views 12 https://www.ebay.com/itm/Rolex-16234-X-Grey-Tapestry-Datejust-Fluted-Bezel-Holes-Case-Swiss-Automatic/164132815078?hash=item26371400e6:g:n1gAAOSwT9NedPTf
+11:58:37.464 [main] INFO  resources.Base - views 4 https://www.ebay.com/itm/Rolex-179163-Z-Datejust-Ivory-Pyramid-Roman-Dial-Oyster-Bracelet-Smooth-Bezel/353014195574?hash=item5231492576:g:~sIAAOSwtV1dXZ8N
+11:58:51.185 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1268820651?iid=143540576409&rt=nc
+11:59:04.897 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/5-Factory-Rolex-68278-Ladies-Yellow-Gold-18k-Mid-Sized-President-Links/392734000518?hash=item5b70c54586:g:8ecAAOSwaktedQ9H
+11:59:10.658 [main] INFO  resources.Base - views 28 https://www.ebay.com/itm/Rolex-69173-R-Datejust-Champagne-Arabic-Fluted-Jubilee-Bracelet-Swiss-Automatic/143560338186?hash=item216cdceb0a:g:UPkAAOSwFC1dXYIj
+11:59:16.296 [main] INFO  resources.Base - views 14 https://www.ebay.com/itm/Rolex-69174-S-Silver-Jubilee-Arabic-Datejust-18-Karat-White-Gold-Fluted-Bezel/164132673154?hash=item263711d682:g:GG4AAOSw0VZdXYQ4
+11:59:30.229 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1838503462?iid=383472092414&rt=nc
+11:59:36.562 [main] INFO  resources.Base - views 11 https://www.ebay.com/itm/Rolex-116300-Datejust-II-Black-Roman-2018-Box-Papers-Stainless-Steel-Swiss-Watch/164132934192?hash=item263715d230:g:cGAAAOSwekpedQao
+11:59:50.469 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/219658573?iid=293518925809
+12:00:03.955 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/Rolex-14k-Solid-Yellow-Gold-Watch-Buckle-fits-16MM-at-the-buckle-end-of-strap/184213589316?hash=item2ae3fc4d44:g:MmUAAOSwP2Zeb9fC
+12:00:17.698 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/178803130?iid=283821631590
+12:00:32.093 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/18028517826?iid=283821673741&rt=nc
+12:00:37.885 [main] INFO  resources.Base - views 8 https://www.ebay.com/itm/Rolex-16233-S-Datejust-Champagne-Tapestry-Stick-Steel-18-Kt-Yellow-Gold-Jubilee/164132700878?hash=item26371242ce:g:o0YAAOSwsnldXZiC
+12:00:52.191 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006950368?iid=202775928148&rt=nc
+12:01:06.256 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/Authentic-Rolex-Gold-Two-Tone-Submariner-Dial-for-Caliber-3035-3135/324107881993?hash=item4b7655ce09:g:59sAAOSwe5peS0iK
+12:01:20.572 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/15031752109?iid=293518941182&rt=nc
+12:01:35.121 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/Rolex-Lady-Datejust-Yellow-Gold-Steel-Black-Dial-79163-Oyster-WATCH-CHEST/383145755092?hash=item59354441d4:g:y4YAAOSw2JJdd-JN
+12:01:49.163 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/5028318668?iid=293518866244
+12:02:02.998 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/141038529?iid=174226023164
+12:02:18.707 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/5023639831?iid=233412743692&rt=nc
+12:02:33.956 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/Rolex-Datejust-116233-36mm-Steel-Yellow-Gold-White-Automatic-2005-2YrWTY-764-1/174128859062?hash=item288ae387b6:g:vxwAAOSwXSZd-U1B
+12:02:39.692 [main] INFO  resources.Base - views 11 https://www.ebay.com/itm/Rolex-16013-5-4-Million-Serial-Datejust-36mm-Steel-and-Gold-Champagne-Stick-Dial/353014238877?hash=item523149ce9d:g:SKEAAOSwePpeQrug
+12:03:04.863 [main] INFO  resources.Base - views 33 https://www.ebay.com/itm/Vintage-ROLEX-Air-King-5500-Stainless-Steel-Automatic-Mens-Watch-BF512064/333552327346?hash=item4da9449ab2:g:KNcAAOSwv-5edHW8
+12:03:19.221 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006571274?iid=383145762560&rt=nc
+12:03:33.335 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/5032173284?iid=362796990383
+12:03:47.905 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/7024426729?iid=362751068586&rt=nc
+12:04:02.256 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1900722671?iid=133347216980&rt=nc
+12:04:16.887 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/520594926?iid=362751067115&rt=nc
+12:04:31.171 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/576313053?iid=362751064155&rt=nc
+12:05:00.878 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/576313053?iid=362751064155&rt=nc
+12:05:15.018 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/28011372978?iid=362751058561
+12:05:29.089 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/4008873617?iid=383145759856
+12:05:43.442 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2305553175?iid=202775929855&rt=nc
+12:05:57.280 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1860413102?iid=362751068343&rt=nc
+12:06:03.565 [main] INFO  resources.Base - views 8 https://www.ebay.com/itm/Rolex-179174-D-White-Diamond-Datejust-Oyster-Fluted-RSC-18-Kt-White-Gold-Bezel/143560348509?hash=item216cdd135d:g:39oAAOSwGR5dYVWt
+12:06:18.388 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2234262609?iid=362751058564&rt=nc
+12:06:32.947 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/18015669887?iid=202730422374&rt=nc
+12:06:57.360 [main] INFO  resources.Base - views 25 https://www.ebay.com/itm/Vintage-ROLEX-Oyster-Date-Precision-6694-Steel-Hand-Winding-Mens-Watch-BF512112/313033431208?hash=item48e23f18a8:g:DU8AAOSwmVxedHVg
+12:07:22.129 [main] INFO  resources.Base - views 6 https://www.ebay.com/itm/Vintage-ROLEX-Oyster-Perpetual-Date-6519-Steel-Automatic-Ladies-Watch-BF512073/333552325397?hash=item4da9449315:g:eKsAAOSw5jledHUG
+12:07:35.626 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/141032734?iid=362751069576
+12:07:50.060 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1500736519?iid=202818040946&rt=nc
+12:08:03.845 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/4015870552?iid=202775929126&rt=nc
+12:08:21.287 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/12037189856?iid=383145767632&rt=nc
+12:08:46.497 [main] INFO  resources.Base - views 5 https://www.ebay.com/itm/Vintage-ROLEX-Oyster-Perpetual-Date-6519-Steel-Automatic-Ladies-Watch-BF512100/324108833133?hash=item4b7664516d:g:je4AAOSwVPBedHYY
+12:09:11.098 [main] INFO  resources.Base - views 5 https://www.ebay.com/itm/Vintage-ROLEX-Oyster-Perpetual-Date-6519-Steel-Automatic-Ladies-Watch-BF512101/333552326567?hash=item4da94497a7:g:KGMAAOSwSshedHUy
+12:09:24.976 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1268820651?iid=362751057114&rt=nc
+12:09:31.231 [main] INFO  resources.Base - views 5 https://www.ebay.com/itm/ROLEX-800000072558000/124123918641?hash=item1ce65cb131:g:zeoAAOSwiuFedDki
+12:09:44.540 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/3037209055?iid=233507522806&rt=nc
+12:09:50.020 [main] INFO  resources.Base - views 14 https://www.ebay.com/itm/Rolex-116655-Yachtmaster-Everose-Gold-Oysterflex-Box-Papers-Swiss-Automatic/164132950846?hash=item263716133e:g:Aq4AAOSw8t1edQqN
+12:10:04.492 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/141056016?iid=143560305597&rt=nc
+12:10:19.002 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/Rolex-Lady-Datejust-69178-26mm-18k-Gold-Watch-Champagne-Diamond-Dial-President/233499428696?hash=item365da68758:g:ANYAAOSwrzBeTG67
+12:10:32.725 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/13024698052?iid=114150503191
+12:10:47.153 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/219538230?iid=202775934475&rt=nc
+12:11:01.299 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/Genuine-Rolex-Lady-Datejust-Wrist-Watch-Silver-Index-Face-Jubilee-Band-79163/362751070148?hash=item5475a60fc4:g:RpMAAOSwi0Bdd-aU
+12:11:15.369 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/Rolex-Lady-Datejust-White-Gold-Steel-79174-Silver-Jubilee-Diamond-Jubilee/362846967249?hash=item547b5d55d1:g:dNwAAOSwsxFd8Q8s
+12:11:29.670 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/12014459507?iid=383145767152&rt=nc
+12:11:44.504 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/219496662?iid=114150502801
+12:11:58.296 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/27030516858?iid=274312770395&rt=nc
+12:12:11.629 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/174061329?iid=193390034205
+12:12:35.685 [main] INFO  resources.Base - views 13 https://www.ebay.com/itm/ROLEX-18kt-Gold-SS-DAYTONA-White-Index-Dial-116523-SANT-BLANC/372995446604?hash=item56d842d74c:g:KRQAAOSwzY1dMeqH
+12:12:48.325 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/14023003460?iid=362751066484
+12:13:01.348 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006571274?iid=202775928293&rt=nc
+12:13:14.854 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/520594926?iid=202775927437&rt=nc
+12:13:28.336 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/7024426729?iid=383145770488&rt=nc
+12:13:41.282 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/5032173284?iid=383148954725
+12:14:07.221 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2119411818?iid=153848429248&rt=nc
+12:14:20.023 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2124639599?iid=233416794968&rt=nc
+12:14:26.288 [main] INFO  resources.Base - views 9 https://www.ebay.com/itm/Rolex-116520-K-Cosmograph-Daytona-White-Factory-Serviced-Steel-Automatic-Watch/164132723660?hash=item2637129bcc:g:UusAAOSwiuFeWXT0
+12:14:39.569 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/10030474968?iid=383145762875
+12:14:52.493 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006571274?iid=202775928293&rt=nc
+12:15:05.766 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/520594926?iid=202775927437&rt=nc
+12:15:18.994 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1860413102?iid=362751065227&rt=nc
+12:15:32.178 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/7024426729?iid=383145770488&rt=nc
+12:15:44.677 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/5032173284?iid=383148954725
+12:15:57.503 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/28011372978?iid=362796989985
+12:16:10.579 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006950368?iid=383145759872&rt=nc
+12:16:23.934 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/18015669887?iid=383145764451&rt=nc
+12:16:37.544 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/576313053?iid=383145762876&rt=nc
+12:16:50.652 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2234262609?iid=202775928147&rt=nc
+12:17:04.218 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/25008205123?iid=383122932442&rt=nc
+12:17:17.653 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2305553175?iid=362751065807&rt=nc
+12:17:30.891 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1500736519?iid=362751066752&rt=nc
+12:17:43.973 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/141032734?iid=362751071038
+12:17:57.342 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/219538230?iid=383145767561&rt=nc
+12:18:10.378 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/4015870552?iid=362800564221&rt=nc
+12:18:23.203 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/4008873617?iid=362751062724
+12:18:37.573 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/12037189856?iid=383145767503&rt=nc
+12:19:01.657 [main] INFO  resources.Base - views 6 https://www.ebay.com/itm/Vintage-ROLEX-Oyster-Perpetual-Date-6517-White-Gold-Steel-Ladies-Watch-BF512068/313033433601?hash=item48e23f2201:g:iHoAAOSwtzJedHXr
+12:19:14.368 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/23034767769?iid=202898755127&rt=nc
+12:19:27.439 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/1363402174?iid=124055388074
+12:19:40.215 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/Rolex-Lady-Datejust-Yellow-Gold-Steel-Silver-Tapestry-Dial-69163-Oyster-W/383145767764?hash=item5935447354:g:TWoAAOSwRfNeB7wO
+12:19:53.393 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/ROLEX-Datejust-69173G-Serial-W-10P-Diamond-750-YG-Gold-Dial-Ladies-90094945/254515089514?hash=item3b4248106a:g:TAcAAOSwc7teSjLu
+12:20:06.033 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/8024900999?iid=333552899564
+12:20:10.818 [main] INFO  resources.Base - views 1 https://www.ebay.com/itm/ROLEX-Oyster-Perpetual-Two-Tone-6719-Serial-7-YG-Gold-Dial-Ladies-90096698/264656761246?hash=item3d9ec5b19e:g:vLcAAOSw0w5eYJ2e
+12:20:23.986 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/8028679194?iid=274312790209&rt=nc
+12:20:36.887 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/19016252645?iid=202775929121
+12:20:49.983 [main] INFO  resources.Base - Views 0 https://www.ebay.com/itm/Genuine-Rolex-Lady-Datejust-Wrist-Watch-Silver-Index-Face-Oyster-Band-79163/362796989555?hash=item547862bc73:g:Un4AAOSwr3BduZ6B
+12:21:15.739 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006571274?iid=383145764947&rt=nc
+12:21:28.704 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/7024426729?iid=362796990153&rt=nc
+12:21:41.937 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/520594926?iid=383145765890&rt=nc
+12:21:55.410 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1860413102?iid=362751067842&rt=nc
+12:22:07.918 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/18015669887?iid=202775931120&rt=nc
+12:22:20.669 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2305553175?iid=383145760030&rt=nc
+12:22:33.250 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/28011372978?iid=362751056594
+12:22:45.651 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/5032173284?iid=362751060696
+12:22:58.561 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1500736519?iid=362861362888&rt=nc
+12:23:12.162 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/141032734?iid=383145767483
+12:23:24.906 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2234262609?iid=202775928375&rt=nc
+12:23:50.438 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006571274?iid=202775928659&rt=nc
+12:24:03.009 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/520594926?iid=383145762088&rt=nc
+12:24:16.016 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/7024426729?iid=202853549345&rt=nc
+12:24:28.937 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1860413102?iid=362751066602&rt=nc
+12:24:42.807 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2305553175?iid=383145760030&rt=nc
+12:24:55.733 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/28011372978?iid=362751056594
+12:25:08.174 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/5032173284?iid=362751060696
+12:25:21.854 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2234262609?iid=383145757393&rt=nc
+12:25:34.893 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1500736519?iid=362861362888&rt=nc
+12:25:48.041 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/141032734?iid=383164339723
+12:26:01.568 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/12037189856?iid=362751057509&rt=nc
+12:26:15.052 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/4015870552?iid=383145765196&rt=nc
+12:26:27.917 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/19016252645?iid=202775920264
+12:26:40.510 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/4008873617?iid=362751061718
+12:26:54.328 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006950368?iid=362751066691&rt=nc
+12:27:07.102 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/18015669887?iid=202775930690&rt=nc
+12:27:20.287 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/576313053?iid=202775920980&rt=nc
+12:27:33.350 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/152999441?iid=383145759194
+12:27:46.394 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/25008205123?iid=173547567421&rt=nc
+12:28:12.066 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1860413102?iid=362751067634&rt=nc
+12:28:25.068 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/520594926?iid=202775928834&rt=nc
+12:28:38.529 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006571274?iid=202775930015&rt=nc
+12:28:52.286 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/7024426729?iid=383145762135&rt=nc
+12:29:04.937 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/28011372978?iid=383145765290
+12:29:17.599 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2305553175?iid=202775930966&rt=nc
+12:29:41.895 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/5032173284?iid=362752614687
+12:29:54.350 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/141032734?iid=383164339723
+12:30:07.306 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1500736519?iid=202811014830&rt=nc
+12:30:20.351 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/18015669887?iid=362752613362&rt=nc
+12:30:33.319 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2234262609?iid=383145762459&rt=nc
+12:30:46.211 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/12037189856?iid=383145767500&rt=nc
+12:31:00.111 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/4015870552?iid=383145765391&rt=nc
+12:31:25.738 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/520594926?iid=383145762088&rt=nc
+12:31:39.295 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1860413102?iid=362751066602&rt=nc
+12:31:52.490 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/7024426729?iid=202775931263&rt=nc
+12:32:06.615 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006571274?iid=362751057205&rt=nc
+12:32:19.364 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/28011372978?iid=383145765290
+12:32:32.140 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2305553175?iid=202775930966&rt=nc
+12:32:44.988 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/5032173284?iid=362752614687
+12:32:57.994 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1500736519?iid=202811014830&rt=nc
+12:33:11.088 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/18015669887?iid=362752613362&rt=nc
+12:33:24.668 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2234262609?iid=383145762459&rt=nc
+12:33:38.114 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/12037189856?iid=383145767500&rt=nc
+12:33:50.930 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/141032734?iid=362751058018
+12:34:03.705 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/4015870552?iid=383145765391&rt=nc
+12:34:16.582 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/19016252645?iid=383145764682
+12:34:28.981 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/4008873617?iid=202775930722
+12:34:42.124 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/576313053?iid=362916612406&rt=nc
+12:34:48.618 [main] INFO  resources.Base - views 13 https://www.ebay.com/itm/Rolex-Deepsea-Sea-Dweller-Deep-Blue-Auto-Steel-Mens-Oyster-Bracelet-Watch-116660/274312858659?hash=item3fde520c23:g:8e4AAOSwY4NedNmC
+12:35:14.910 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/7024426729?iid=202775929240&rt=nc
+12:35:27.777 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1860413102?iid=362751067634&rt=nc
+12:35:40.816 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006571274?iid=202775930015&rt=nc
+12:35:53.962 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/520594926?iid=383145762088&rt=nc
+12:36:06.514 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2305553175?iid=202775929392&rt=nc
+12:36:18.920 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/28011372978?iid=202775934668
+12:36:31.375 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/141032734?iid=362751058018
+12:36:44.038 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1500736519?iid=383145765608&rt=nc
+12:36:56.558 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/4015870552?iid=383145765391&rt=nc
+12:37:08.778 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/18015669887?iid=202775930690&rt=nc
+12:37:21.488 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/19016252645?iid=202775920647
+12:37:34.264 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/12037189856?iid=383145767638&rt=nc
+12:38:00.217 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/28011372978?iid=202775934668
+12:38:12.953 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/141032734?iid=362751058018
+12:38:25.982 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1860413102?iid=362751056668&rt=nc
+12:38:39.125 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1500736519?iid=383145765608&rt=nc
+12:38:52.178 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006571274?iid=383145752513&rt=nc
+12:39:05.870 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/7024426729?iid=202775935031&rt=nc
+12:39:19.024 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/4015870552?iid=383448229238&rt=nc
+12:39:31.976 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/18015669887?iid=202775930690&rt=nc
+12:39:45.103 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/19016252645?iid=202775920647
+12:39:58.115 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/12037189856?iid=383145767638&rt=nc
+12:40:11.086 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/520594926?iid=362751068317&rt=nc
+12:40:24.253 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2305553175?iid=202775931087&rt=nc
+12:40:37.212 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/4008873617?iid=202775931089
+12:40:50.000 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1808008889?iid=362751064609&rt=nc
+12:41:03.736 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/16030271774?iid=383145753284
+12:41:16.706 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/871704047?iid=202775933202&rt=nc
+12:41:30.247 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1268820651?iid=202775930235&rt=nc
+12:41:43.309 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1232441979?iid=383145769296&rt=nc
+12:41:56.108 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/178805010?iid=202775936889
+12:42:21.380 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/28011372978?iid=362751068119
+12:42:34.648 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006571274?iid=202775932930&rt=nc
+12:42:47.865 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/7024426729?iid=202775935031&rt=nc
+12:43:01.234 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/141032734?iid=383145759166
+12:43:14.758 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/4015870552?iid=202775928782&rt=nc
+12:43:27.850 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/520594926?iid=362751068317&rt=nc
+12:43:40.647 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/19016252645?iid=202775929196
+12:43:53.370 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1500736519?iid=362751058393&rt=nc
+12:44:06.636 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2305553175?iid=202775931087&rt=nc
+12:44:19.744 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/4008873617?iid=202775928369
+12:44:32.915 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/12037189856?iid=202775931778&rt=nc
+12:44:58.846 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1500736519?iid=362751058393&rt=nc
+12:45:11.639 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/28011372978?iid=383145767461
+12:45:24.701 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006571274?iid=202874730698&rt=nc
+12:45:37.644 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/19016252645?iid=202775920505
+12:45:50.884 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/2305553175?iid=202775931087&rt=nc
+12:46:04.333 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/7024426729?iid=383145762183&rt=nc
+12:46:17.574 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/520594926?iid=202775933813&rt=nc
+12:46:30.832 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/4008873617?iid=202775928369
+12:46:43.778 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/4015870552?iid=383145761822&rt=nc
+12:46:56.667 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/12037189856?iid=202775931778&rt=nc
+12:47:09.806 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/18015669887?iid=383145757675&rt=nc
+12:47:23.809 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1860413102?iid=383145762589&rt=nc
+12:47:37.252 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/141032734?iid=383145759288
+12:47:50.153 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1808008889?iid=202775931007&rt=nc
+12:48:03.371 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/871704047?iid=202775929422&rt=nc
+12:48:16.406 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/16030271774?iid=362751066452
+12:48:29.486 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1232441979?iid=362751070347&rt=nc
+12:48:42.612 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1268820651?iid=383145763132&rt=nc
+12:48:55.614 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/153010036?iid=202775928832
+12:49:08.658 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/141056016?iid=383145752618&rt=nc
+12:49:21.670 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1600611410?iid=383145769609&rt=nc
+12:49:47.045 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/19016252645?iid=362751064179
+12:50:00.604 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/10006571274?iid=362751064950&rt=nc
+12:50:13.458 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/28011372978?iid=383241021589
+12:50:26.527 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/7024426729?iid=202775931820&rt=nc
+12:50:38.977 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/4008873617?iid=383145765439
+12:50:51.707 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/520594926?iid=383145765744&rt=nc
+12:51:04.768 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/12037189856?iid=202775935745&rt=nc
+12:51:17.907 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1860413102?iid=362751067869&rt=nc
+12:51:30.909 [main] INFO  resources.Base - Views 0 https://www.ebay.com/c/141032734?iid=202775936446
+12:51:44.008 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1500736519?iid=383145770191&rt=nc
+12:51:56.597 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/871704047?iid=202775930794&rt=nc
+12:52:09.838 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1268820651?iid=202775920402&rt=nc
+12:52:23.423 [main] INFO  resources.Base - Views 0 https://www.ebay.com/p/1232441979?iid=383145766003&rt=nc
+12:52:24.698 [main] INFO  resources.Base - End Time  2020-03-20T19:52:24.698Z
